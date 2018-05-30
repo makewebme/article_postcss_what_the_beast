@@ -1,0 +1,17 @@
+/* Проверка Autoprefixer */
+ 
+.test-autoprefixer {
+  background-image: linear-gradient(red, #f06d06);
+}
+
+
+
+/* Проверка PreCSS */
+
+$bgc: purple;
+
+.test-precss {
+  .inner-block {
+    background: $bgc;
+  }
+}

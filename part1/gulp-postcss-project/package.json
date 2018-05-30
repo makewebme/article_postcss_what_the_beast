@@ -1,0 +1,17 @@
+{
+  "name": "postcss-proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^8.5.1",
+    "gulp-postcss": "^7.0.1",
+    "gulp-v4": "^4.0.0-alpha.5",
+    "precss": "^3.1.2"
+  }
+}
